@@ -2,7 +2,7 @@ owner: gnosis
 repo: chiado-uptime
 
 sites:
-  - name: Chiado RPC
+  - name: "RPC"
     method: POST
     url: https://rpc.chiadochain.net/
     headers: ["Content-Type: application/json"]
@@ -14,10 +14,10 @@ sites:
         "jsonrpc":"2.0"
       }
     
-  - name: Chiado Beacon RPC
+  - name: "Beacon RPC"
     url: https://rpc-gbc.chiadochain.net/
 
-  - name: Explorer
+  - name: "Explorer"
     url: https://blockscout.chiadochain.net/
 
   - name: "Beacon Explorer"
