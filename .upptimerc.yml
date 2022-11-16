@@ -15,7 +15,7 @@ sites:
       }
     
   - name: "Beacon RPC"
-    url: https://rpc-gbc.chiadochain.net/
+    url: https://rpc-gbc.chiadochain.net/eth/v1/beacon/headers
 
   - name: "Explorer"
     url: https://blockscout.chiadochain.net/
@@ -27,13 +27,10 @@ sites:
     url: https://forkmon.chiadochain.net/
 
   - name: "Forkmon ETH2"
-    url: https://forkmon-eth2.chiadochain.net/
+    url: https://eth2-forkmon.chiadochain.net/
 
   - name: "Ethstats"
     url: https://ethstats.chiadochain.net/
-
-  - name: "CoW Protocol - Docs"
-    url: https://docs.cow.fi
 
 status-website:
   cname: status.chiadochain.net
