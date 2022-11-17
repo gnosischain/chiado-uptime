@@ -1,4 +1,4 @@
-owner: gnosis
+owner: gnosischain
 repo: chiado-uptime
 
 sites:
@@ -34,11 +34,11 @@ sites:
 
 status-website:
   # cname: status.chiadochain.net
+  introTitle: "**Chiado** the GnosisChain Testnet"
+  introMessage: Check the availability for Chiado Testnet services
   baseUrl: /
   logoUrl: https://raw.githubusercontent.com/gnosis/chiado-uptime/master/assets/chiado-logo.svg
   name: Upptime
-  introTitle: "Status for Chiado Testnet"
-  introMessage: Check the availability for Chiado Testnet services.
   navbar:
     - title: Status
       href: /
