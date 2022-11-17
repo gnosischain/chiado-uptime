@@ -33,7 +33,7 @@ sites:
     url: https://ethstats.chiadochain.net/
 
 status-website:
-  cname: status.chiadochain.net
+  # cname: status.chiadochain.net
   baseUrl: /
   logoUrl: https://raw.githubusercontent.com/gnosis/chiado-uptime/master/assets/chiado-logo.svg
   name: Upptime
