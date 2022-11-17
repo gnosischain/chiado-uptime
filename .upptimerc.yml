@@ -33,23 +33,16 @@ sites:
     url: https://ethstats.chiadochain.net/
 
 status-website:
-  # cname: status.chiadochain.net
   introTitle: "**Chiado** the GnosisChain Testnet"
   introMessage: Check the availability for Chiado Testnet services
-  baseUrl: /
+  baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/gnosis/chiado-uptime/master/assets/chiado-logo.svg
-  name: Upptime
-  navbar:
-    - title: Status
-      href: /
+  name: Chiado
   assignees:
     - riccardo.dantoni
   theme: dark
   workflowSchedule:
     graphs: "0 0 * * *"
     responseTime: "0 23 * * *"
-    staticSite: "0 1 * * *"
     summary: "0 0 * * *"
-    updateTemplate: "0 0 * * *"
-    updates: "0 3 * * *"
     uptime: "*/5 * * * *"
