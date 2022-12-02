@@ -39,11 +39,4 @@ status-website:
   # baseUrl: /chiado-uptime
   # logoUrl: https://raw.githubusercontent.com/gnosischain/chiado-uptime/master/assets/chiado-logo.svg
   name: Chiado
-  assignees:
-    - riccardo.dantoni
   theme: dark
-  workflowSchedule:
-    graphs: "0 0 * * *"
-    responseTime: "0 23 * * *"
-    summary: "0 0 * * *"
-    uptime: "*/5 * * * *"
