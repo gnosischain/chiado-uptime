@@ -61,17 +61,17 @@
     "url": "https://blockscout.chiadochain.net/",
     "icon": "https://icons.duckduckgo.com/ip3/blockscout.chiadochain.net.ico",
     "slug": "explorer",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "96.54%",
-    "uptimeWeek": "99.51%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "99.50%",
     "uptimeMonth": "96.80%",
-    "uptimeYear": "99.19%",
-    "time": 733,
-    "timeDay": 734,
-    "timeWeek": 613,
-    "timeMonth": 894,
-    "timeYear": 733,
+    "uptimeYear": "99.20%",
+    "time": 737,
+    "timeDay": 862,
+    "timeWeek": 704,
+    "timeMonth": 900,
+    "timeYear": 737,
     "dailyMinutesDown": {
       "2023-04-09": 50,
       "2023-04-02": 287,
@@ -86,7 +86,7 @@
       "2023-02-15": 6,
       "2023-02-08": 24,
       "2023-02-01": 45,
-      "2023-01-31": 19
+      "2023-01-31": 4
     }
   },
   {
