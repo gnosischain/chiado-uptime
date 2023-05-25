@@ -34,9 +34,9 @@
     "url": "https://rpc-gbc.chiadochain.net/eth/v1/beacon/headers",
     "icon": "https://icons.duckduckgo.com/ip3/rpc-gbc.chiadochain.net.ico",
     "slug": "beacon-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "98.52%",
-    "uptimeDay": "96.80%",
+    "uptimeDay": "96.75%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "98.52%",
@@ -46,6 +46,7 @@
     "timeMonth": 299,
     "timeYear": 352,
     "dailyMinutesDown": {
+      "2023-05-25": 1,
       "2023-05-24": 46,
       "2023-05-17": 20,
       "2023-04-20": 5,
@@ -65,18 +66,19 @@
     "url": "https://blockscout.chiadochain.net/",
     "icon": "https://icons.duckduckgo.com/ip3/blockscout.chiadochain.net.ico",
     "slug": "explorer",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 734,
     "timeDay": 161,
     "timeWeek": 231,
     "timeMonth": 318,
     "timeYear": 734,
     "dailyMinutesDown": {
+      "2023-05-25": 0,
       "2023-04-27": 71,
       "2023-04-20": 5,
       "2023-04-09": 126,
@@ -86,8 +88,7 @@
       "2023-03-20": 271,
       "2023-03-19": 501,
       "2023-03-11": 10,
-      "2023-03-06": 6,
-      "2023-03-05": 13
+      "2023-03-06": 6
     }
   },
   {
