@@ -13,22 +13,29 @@ sites:
         "id":1,
         "jsonrpc":"2.0"
       }
-    
+  - name: "GatewayFM Public RPC"
+    method: POST
+    url: https://rpc.chiado.gnosis.gateway.fm/
+    headers: ["Content-Type: application/json"]
+    body: |
+      {
+        "method": "eth_blockNumber",
+        "params":[],
+        "id":1,
+        "jsonrpc":"2.0"
+      } 
   - name: "Beacon RPC"
     url: https://rpc-gbc.chiadochain.net/eth/v1/beacon/headers
-
+  - name: "Blockscout"
+    url: https://blockscout.com/gnosis/chiado
   - name: "Explorer"
     url: https://blockscout.chiadochain.net/
-
   - name: "Beacon Explorer"
     url: https://beacon.chiadochain.net/
-
   - name: "Forkmon"
     url: https://forkmon.chiadochain.net/
-
   - name: "Forkmon ETH2"
     url: https://eth2-forkmon.chiadochain.net/
-
   - name: "Ethstats"
     url: https://ethstats.chiadochain.net/
 
