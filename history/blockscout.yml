@@ -1,7 +1,7 @@
 url: https://blockscout.com/gnosis/chiado
-status: up
-code: 200
-responseTime: 394
-lastUpdated: 2023-06-22T23:14:22.134Z
+status: down
+code: 503
+responseTime: 342
+lastUpdated: 2023-06-23T03:21:07.214Z
 startTime: Thu Jun 01 2023 08:32:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
