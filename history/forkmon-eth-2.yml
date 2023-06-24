@@ -1,7 +1,7 @@
 url: https://eth2-forkmon.chiadochain.net/
-status: down
-code: 503
-responseTime: 270
-lastUpdated: 2023-06-24T09:06:14.338Z
+status: up
+code: 200
+responseTime: 434
+lastUpdated: 2023-06-24T09:20:41.495Z
 startTime: Wed Nov 16 2022 14:44:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
