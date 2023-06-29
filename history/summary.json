@@ -143,11 +143,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/beacon.chiadochain.net.ico",
     "slug": "beacon-explorer",
     "status": "up",
-    "uptime": "96.47%",
+    "uptime": "96.48%",
     "uptimeDay": "99.02%",
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "96.47%",
+    "uptimeYear": "96.48%",
     "time": 682,
     "timeDay": 657,
     "timeWeek": 571,
@@ -243,17 +243,19 @@
     "url": "https://ethstats.chiadochain.net/",
     "icon": "https://icons.duckduckgo.com/ip3/ethstats.chiadochain.net.ico",
     "slug": "ethstats",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 367,
-    "timeWeek": 340,
+    "timeDay": 320,
+    "timeWeek": 331,
     "timeMonth": 280,
     "timeYear": 263,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-29": 0
+    }
   }
 ]
