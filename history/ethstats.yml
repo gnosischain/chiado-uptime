@@ -1,7 +1,7 @@
 url: https://ethstats.chiadochain.net/
-status: down
-code: 404
-responseTime: 273
-lastUpdated: 2023-06-29T16:09:35.429Z
+status: up
+code: 200
+responseTime: 202
+lastUpdated: 2023-06-29T16:30:24.515Z
 startTime: Wed Nov 16 2022 14:44:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
