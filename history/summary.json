@@ -243,19 +243,19 @@
     "url": "https://ethstats.chiadochain.net/",
     "icon": "https://icons.duckduckgo.com/ip3/ethstats.chiadochain.net.ico",
     "slug": "ethstats",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 320,
-    "timeWeek": 331,
-    "timeMonth": 280,
-    "timeYear": 263,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 262,
+    "timeDay": 281,
+    "timeWeek": 317,
+    "timeMonth": 278,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2023-06-29": 0
+      "2023-06-29": 21
     }
   }
 ]
