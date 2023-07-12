@@ -1,7 +1,7 @@
 url: https://rpc-gbc.chiadochain.net/eth/v1/beacon/headers
-status: up
-code: 200
-responseTime: 221
-lastUpdated: 2023-07-11T23:13:00.525Z
+status: down
+code: 502
+responseTime: 15223
+lastUpdated: 2023-07-12T13:51:18.204Z
 startTime: Wed Nov 16 2022 14:44:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
