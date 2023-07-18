@@ -1,7 +1,7 @@
 url: https://blockscout.chiadochain.net/
-status: up
-code: 200
-responseTime: 407
-lastUpdated: 2023-07-17T23:12:45.258Z
+status: down
+code: 503
+responseTime: 274
+lastUpdated: 2023-07-18T05:36:59.487Z
 startTime: Wed Nov 16 2022 14:44:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
