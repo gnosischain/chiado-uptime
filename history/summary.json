@@ -223,19 +223,19 @@
     "url": "https://forkmon.chiadochain.net/",
     "icon": "https://icons.duckduckgo.com/ip3/forkmon.chiadochain.net.ico",
     "slug": "forkmon",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 286,
-    "timeDay": 275,
-    "timeWeek": 196,
-    "timeMonth": 218,
+    "timeDay": 284,
+    "timeWeek": 209,
+    "timeMonth": 221,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2023-07-26": 0
+      "2023-07-26": 12
     }
   },
   {
