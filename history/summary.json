@@ -256,22 +256,22 @@
     "slug": "forkmon-eth-2",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "70.19%",
+    "uptimeDay": "69.79%",
     "uptimeWeek": "88.78%",
     "uptimeMonth": "97.42%",
     "uptimeYear": "99.73%",
-    "time": 250,
-    "timeDay": 211,
-    "timeWeek": 210,
+    "time": 249,
+    "timeDay": 210,
+    "timeWeek": 209,
     "timeMonth": 213,
-    "timeYear": 250,
+    "timeYear": 249,
     "dailyMinutesDown": {
-      "2023-09-07": 252,
+      "2023-09-07": 258,
       "2023-09-06": 413,
       "2023-09-05": 362,
       "2023-09-04": 62,
       "2023-09-03": 32,
-      "2023-09-02": 18
+      "2023-09-02": 12
     }
   },
   {
