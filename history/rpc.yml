@@ -1,7 +1,7 @@
 url: https://rpc.chiadochain.net/
-status: down
-code: 503
-responseTime: 678
-lastUpdated: 2023-09-08T02:36:11.528Z
+status: up
+code: 200
+responseTime: 355
+lastUpdated: 2023-09-08T02:41:31.746Z
 startTime: 2022-11-16T14:44:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
