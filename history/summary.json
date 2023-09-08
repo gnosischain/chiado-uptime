@@ -41,9 +41,9 @@
     "url": "https://rpc.chiado.gnosis.gateway.fm/",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.chiado.gnosis.gateway.fm.ico",
     "slug": "gateway-fm-public-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -52,7 +52,9 @@
     "timeWeek": 824,
     "timeMonth": 712,
     "timeYear": 582,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-08": 0
+    }
   },
   {
     "name": "Beacon RPC",
@@ -254,22 +256,23 @@
     "url": "https://eth2-forkmon.chiadochain.net/",
     "icon": "https://icons.duckduckgo.com/ip3/eth2-forkmon.chiadochain.net.ico",
     "slug": "forkmon-eth-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "72.82%",
-    "uptimeWeek": "88.22%",
-    "uptimeMonth": "97.29%",
+    "uptimeDay": "74.08%",
+    "uptimeWeek": "88.35%",
+    "uptimeMonth": "97.32%",
     "uptimeYear": "99.72%",
     "time": 248,
-    "timeDay": 212,
+    "timeDay": 208,
     "timeWeek": 211,
     "timeMonth": 213,
     "timeYear": 248,
     "dailyMinutesDown": {
+      "2023-09-08": 0,
       "2023-09-07": 394,
       "2023-09-06": 413,
       "2023-09-05": 362,
-      "2023-09-04": 27
+      "2023-09-04": 13
     }
   },
   {
