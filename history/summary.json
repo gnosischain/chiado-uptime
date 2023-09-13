@@ -260,11 +260,11 @@
     "url": "https://eth2-forkmon.chiadochain.net/",
     "icon": "https://icons.duckduckgo.com/ip3/eth2-forkmon.chiadochain.net.ico",
     "slug": "forkmon-eth-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "80.49%",
-    "uptimeWeek": "89.06%",
-    "uptimeMonth": "97.48%",
+    "uptimeDay": "80.47%",
+    "uptimeWeek": "89.24%",
+    "uptimeMonth": "97.52%",
     "uptimeYear": "99.75%",
     "time": 244,
     "timeDay": 210,
@@ -278,7 +278,7 @@
       "2023-09-10": 111,
       "2023-09-09": 70,
       "2023-09-08": 61,
-      "2023-09-07": 394
+      "2023-09-07": 376
     }
   },
   {
