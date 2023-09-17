@@ -10,11 +10,11 @@
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.06%",
-    "time": 468,
-    "timeDay": 280,
-    "timeWeek": 543,
-    "timeMonth": 582,
-    "timeYear": 468,
+    "time": 469,
+    "timeDay": 416,
+    "timeWeek": 555,
+    "timeMonth": 593,
+    "timeYear": 469,
     "dailyMinutesDown": {
       "2023-09-17": 12,
       "2023-09-14": 9,
@@ -55,7 +55,7 @@
     "time": 644,
     "timeDay": 856,
     "timeWeek": 624,
-    "timeMonth": 861,
+    "timeMonth": 878,
     "timeYear": 644,
     "dailyMinutesDown": {
       "2023-09-13": 6,
@@ -76,7 +76,7 @@
     "time": 572,
     "timeDay": 258,
     "timeWeek": 248,
-    "timeMonth": 253,
+    "timeMonth": 252,
     "timeYear": 572,
     "dailyMinutesDown": {
       "2023-09-17": 18,
@@ -120,7 +120,7 @@
     "time": 1306,
     "timeDay": 1474,
     "timeWeek": 1533,
-    "timeMonth": 1625,
+    "timeMonth": 1626,
     "timeYear": 1306,
     "dailyMinutesDown": {
       "2023-07-10": 11,
@@ -143,7 +143,7 @@
     "time": 1044,
     "timeDay": 1159,
     "timeWeek": 1371,
-    "timeMonth": 1196,
+    "timeMonth": 1191,
     "timeYear": 1044,
     "dailyMinutesDown": {
       "2023-08-31": 12,
@@ -186,7 +186,7 @@
     "time": 928,
     "timeDay": 339,
     "timeWeek": 518,
-    "timeMonth": 587,
+    "timeMonth": 590,
     "timeYear": 928,
     "dailyMinutesDown": {
       "2023-09-17": 6,
@@ -258,7 +258,7 @@
     "time": 283,
     "timeDay": 236,
     "timeWeek": 299,
-    "timeMonth": 264,
+    "timeMonth": 268,
     "timeYear": 283,
     "dailyMinutesDown": {
       "2023-07-26": 12
@@ -269,14 +269,14 @@
     "url": "https://eth2-forkmon.chiadochain.net/",
     "icon": "https://icons.duckduckgo.com/ip3/eth2-forkmon.chiadochain.net.ico",
     "slug": "forkmon-eth-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "77.55%",
-    "uptimeWeek": "89.41%",
-    "uptimeMonth": "97.56%",
+    "uptimeDay": "77.53%",
+    "uptimeWeek": "89.63%",
+    "uptimeMonth": "97.61%",
     "uptimeYear": "99.76%",
     "time": 233,
-    "timeDay": 205,
+    "timeDay": 206,
     "timeWeek": 213,
     "timeMonth": 212,
     "timeYear": 233,
@@ -284,7 +284,7 @@
       "2023-09-17": 326,
       "2023-09-16": 206,
       "2023-09-15": 335,
-      "2023-09-14": 211
+      "2023-09-14": 189
     }
   },
   {
