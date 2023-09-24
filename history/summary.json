@@ -179,11 +179,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/beacon.chiadochain.net.ico",
     "slug": "beacon-explorer",
     "status": "up",
-    "uptime": "96.99%",
+    "uptime": "97.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
-    "uptimeYear": "96.99%",
+    "uptimeYear": "97.00%",
     "time": 922,
     "timeDay": 282,
     "timeWeek": 459,
@@ -270,11 +270,11 @@
     "url": "https://eth2-forkmon.chiadochain.net/",
     "icon": "https://icons.duckduckgo.com/ip3/eth2-forkmon.chiadochain.net.ico",
     "slug": "forkmon-eth-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "77.66%",
-    "uptimeWeek": "89.61%",
-    "uptimeMonth": "97.61%",
+    "uptimeDay": "78.38%",
+    "uptimeWeek": "89.66%",
+    "uptimeMonth": "97.62%",
     "uptimeYear": "99.77%",
     "time": 225,
     "timeDay": 218,
@@ -285,7 +285,7 @@
       "2023-09-24": 243,
       "2023-09-23": 234,
       "2023-09-22": 286,
-      "2023-09-21": 293
+      "2023-09-21": 287
     }
   },
   {
