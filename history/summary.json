@@ -182,7 +182,7 @@
     "uptime": "97.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "97.03%",
     "time": 920,
     "timeDay": 748,
@@ -270,11 +270,11 @@
     "url": "https://eth2-forkmon.chiadochain.net/",
     "icon": "https://icons.duckduckgo.com/ip3/eth2-forkmon.chiadochain.net.ico",
     "slug": "forkmon-eth-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "85.36%",
-    "uptimeWeek": "90.44%",
-    "uptimeMonth": "97.80%",
+    "uptimeDay": "85.33%",
+    "uptimeWeek": "90.50%",
+    "uptimeMonth": "97.81%",
     "uptimeYear": "99.79%",
     "time": 222,
     "timeDay": 207,
@@ -286,7 +286,7 @@
       "2023-09-27": 213,
       "2023-09-26": 195,
       "2023-09-25": 307,
-      "2023-09-24": 226
+      "2023-09-24": 220
     }
   },
   {
@@ -295,18 +295,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ethstats.chiadochain.net.ico",
     "slug": "ethstats",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 267,
     "timeDay": 254,
     "timeWeek": 258,
     "timeMonth": 285,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2023-09-28": 0,
+      "2023-09-28": 6,
       "2023-06-29": 21
     }
   }
