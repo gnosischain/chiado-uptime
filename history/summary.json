@@ -182,12 +182,12 @@
     "uptime": "97.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "97.03%",
     "time": 920,
     "timeDay": 748,
     "timeWeek": 546,
-    "timeMonth": 572,
+    "timeMonth": 575,
     "timeYear": 920,
     "dailyMinutesDown": {
       "2023-09-17": 6,
@@ -250,9 +250,9 @@
     "url": "https://forkmon.chiadochain.net/",
     "icon": "https://icons.duckduckgo.com/ip3/forkmon.chiadochain.net.ico",
     "slug": "forkmon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -262,6 +262,7 @@
     "timeMonth": 280,
     "timeYear": 285,
     "dailyMinutesDown": {
+      "2023-09-28": 0,
       "2023-07-26": 12
     }
   },
