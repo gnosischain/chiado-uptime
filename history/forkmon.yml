@@ -1,7 +1,7 @@
 url: https://forkmon.chiadochain.net/
-status: up
-code: 200
-responseTime: 427
-lastUpdated: 2023-10-15T06:14:57.356Z
+status: down
+code: 503
+responseTime: 351
+lastUpdated: 2023-10-15T06:39:39.770Z
 startTime: 2022-11-16T14:44:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
