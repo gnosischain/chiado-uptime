@@ -1,7 +1,7 @@
 url: https://beacon.chiadochain.net/
-status: up
-code: 200
-responseTime: 930
-lastUpdated: 2023-11-07T23:12:14.265Z
+status: down
+code: 502
+responseTime: 317
+lastUpdated: 2023-11-08T03:44:12.010Z
 startTime: 2022-11-16T14:44:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
