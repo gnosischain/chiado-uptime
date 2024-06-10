@@ -213,7 +213,7 @@
     "slug": "beacon-explorer",
     "status": "up",
     "uptime": "96.21%",
-    "uptimeDay": "72.28%",
+    "uptimeDay": "72.56%",
     "uptimeWeek": "84.06%",
     "uptimeMonth": "92.04%",
     "uptimeYear": "94.07%",
@@ -340,7 +340,7 @@
     "timeMonth": 0,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2024-06-10": 50,
+      "2024-06-10": 54,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
