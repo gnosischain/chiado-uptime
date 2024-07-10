@@ -1,7 +1,7 @@
 url: https://rpc.chiado.gnosis.gateway.fm/
-status: down
-code: 502
-responseTime: 508
-lastUpdated: 2024-07-10T10:46:32.234Z
+status: up
+code: 200
+responseTime: 91
+lastUpdated: 2024-07-10T10:52:18.172Z
 startTime: 2023-06-01T08:32:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
