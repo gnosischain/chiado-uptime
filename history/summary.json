@@ -205,18 +205,19 @@
     "url": "https://beacon.chiadochain.net/",
     "icon": "https://icons.duckduckgo.com/ip3/beacon.chiadochain.net.ico",
     "slug": "beacon-explorer",
-    "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "74.47%",
+    "status": "down",
+    "uptime": "98.65%",
+    "uptimeDay": "74.99%",
     "uptimeWeek": "68.39%",
-    "uptimeMonth": "72.78%",
-    "uptimeYear": "97.73%",
-    "time": 4106,
-    "timeDay": 8456,
-    "timeWeek": 7190,
-    "timeMonth": 7310,
-    "timeYear": 4491,
+    "uptimeMonth": "73.23%",
+    "uptimeYear": "97.77%",
+    "time": 4117,
+    "timeDay": 8647,
+    "timeWeek": 7249,
+    "timeMonth": 7322,
+    "timeYear": 4499,
     "dailyMinutesDown": {
+      "2024-07-13": 0,
       "2024-07-12": 422,
       "2024-07-11": 218,
       "2024-07-10": 521,
@@ -237,7 +238,7 @@
       "2024-06-25": 532,
       "2024-06-24": 1237,
       "2024-06-23": 1114,
-      "2024-06-22": 394
+      "2024-06-22": 197
     }
   },
   {
@@ -295,7 +296,7 @@
     "timeMonth": 0,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2024-07-13": 55,
+      "2024-07-13": 62,
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
