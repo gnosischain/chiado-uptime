@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
-    "time": 550,
-    "timeDay": 416,
-    "timeWeek": 470,
-    "timeMonth": 476,
-    "timeYear": 554,
+    "time": 549,
+    "timeDay": 378,
+    "timeWeek": 458,
+    "timeMonth": 470,
+    "timeYear": 553,
     "dailyMinutesDown": {
       "2024-07-12": 6,
       "2024-07-10": 6,
@@ -46,8 +46,7 @@
       "2023-10-10": 28,
       "2023-10-09": 26,
       "2023-10-08": 6,
-      "2023-10-06": 6,
-      "2023-10-03": 365
+      "2023-10-06": 6
     }
   },
   {
@@ -61,10 +60,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 634,
-    "timeDay": 601,
+    "time": 633,
+    "timeDay": 519,
     "timeWeek": 429,
-    "timeMonth": 423,
+    "timeMonth": 422,
     "timeYear": 635,
     "dailyMinutesDown": {
       "2024-07-10": 6,
@@ -88,8 +87,7 @@
       "2023-10-15": 29,
       "2023-10-14": 18,
       "2023-10-10": 13,
-      "2023-10-09": 12,
-      "2023-10-03": 92
+      "2023-10-09": 12
     }
   },
   {
@@ -100,13 +98,13 @@
     "status": "up",
     "uptime": "98.28%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "65.99%",
+    "uptimeWeek": "69.26%",
     "uptimeMonth": "77.79%",
     "uptimeYear": "97.59%",
     "time": 675,
-    "timeDay": 905,
-    "timeWeek": 629,
-    "timeMonth": 780,
+    "timeDay": 416,
+    "timeWeek": 606,
+    "timeMonth": 700,
     "timeYear": 697,
     "dailyMinutesDown": {
       "2024-09-27": 301,
@@ -139,8 +137,7 @@
       "2023-10-17": 62,
       "2023-10-16": 173,
       "2023-10-15": 584,
-      "2023-10-14": 11,
-      "2023-10-03": 789
+      "2023-10-14": 11
     }
   },
   {
@@ -154,11 +151,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1408,
-    "timeDay": 926,
-    "timeWeek": 1321,
-    "timeMonth": 1388,
-    "timeYear": 1423,
+    "time": 1409,
+    "timeDay": 1117,
+    "timeWeek": 1273,
+    "timeMonth": 1364,
+    "timeYear": 1424,
     "dailyMinutesDown": {
       "2024-04-15": 26,
       "2024-01-30": 11
@@ -175,11 +172,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 1184,
-    "timeDay": 888,
-    "timeWeek": 1078,
-    "timeMonth": 1074,
-    "timeYear": 1036,
+    "time": 1185,
+    "timeDay": 797,
+    "timeWeek": 1060,
+    "timeMonth": 1057,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2024-04-15": 26,
       "2024-01-30": 9,
@@ -202,9 +199,9 @@
     "uptimeMonth": "99.52%",
     "uptimeYear": "97.97%",
     "time": 4087,
-    "timeDay": 574,
-    "timeWeek": 2273,
-    "timeMonth": 1317,
+    "timeDay": 583,
+    "timeWeek": 2270,
+    "timeMonth": 1311,
     "timeYear": 4608,
     "dailyMinutesDown": {
       "2024-10-01": 15,
@@ -256,9 +253,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 495,
-    "timeDay": 315,
-    "timeWeek": 403,
-    "timeMonth": 412,
+    "timeDay": 378,
+    "timeWeek": 394,
+    "timeMonth": 407,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2024-09-01": 46,
@@ -292,7 +289,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/eth2-forkmon.chiadochain.net.ico",
     "slug": "forkmon-eth-2",
     "status": "down",
-    "uptime": "46.03%",
+    "uptime": "46.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -303,7 +300,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-01": 1173,
+      "2024-10-02": 62,
+      "2024-10-01": 1440,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -666,8 +664,7 @@
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
-      "2023-10-04": 1440,
-      "2023-10-03": 1440
+      "2023-10-04": 1440
     }
   },
   {
@@ -682,9 +679,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 443,
-    "timeDay": 475,
-    "timeWeek": 489,
-    "timeMonth": 506,
+    "timeDay": 486,
+    "timeWeek": 492,
+    "timeMonth": 501,
     "timeYear": 516,
     "dailyMinutesDown": {
       "2024-07-28": 4,
