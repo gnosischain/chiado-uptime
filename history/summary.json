@@ -11,10 +11,10 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.46%",
     "time": 549,
-    "timeDay": 411,
-    "timeWeek": 432,
-    "timeMonth": 458,
-    "timeYear": 542,
+    "timeDay": 415,
+    "timeWeek": 439,
+    "timeMonth": 454,
+    "timeYear": 543,
     "dailyMinutesDown": {
       "2024-10-08": 6,
       "2024-07-12": 6,
@@ -43,8 +43,7 @@
       "2023-10-15": 504,
       "2023-10-14": 21,
       "2023-10-13": 6,
-      "2023-10-12": 12,
-      "2023-10-10": 28
+      "2023-10-12": 12
     }
   },
   {
@@ -59,9 +58,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 641,
-    "timeDay": 452,
+    "timeDay": 513,
     "timeWeek": 426,
-    "timeMonth": 414,
+    "timeMonth": 413,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2024-07-10": 6,
@@ -83,8 +82,7 @@
       "2023-11-24": 3,
       "2023-11-03": 28,
       "2023-10-15": 29,
-      "2023-10-14": 18,
-      "2023-10-10": 13
+      "2023-10-14": 18
     }
   },
   {
@@ -99,9 +97,9 @@
     "uptimeMonth": "77.76%",
     "uptimeYear": "97.73%",
     "time": 655,
-    "timeDay": 985,
-    "timeWeek": 672,
-    "timeMonth": 651,
+    "timeDay": 448,
+    "timeWeek": 666,
+    "timeMonth": 644,
     "timeYear": 671,
     "dailyMinutesDown": {
       "2024-10-08": 6,
@@ -150,11 +148,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1419,
-    "timeDay": 993,
-    "timeWeek": 1204,
-    "timeMonth": 1355,
-    "timeYear": 1416,
+    "time": 1421,
+    "timeDay": 1241,
+    "timeWeek": 1221,
+    "timeMonth": 1337,
+    "timeYear": 1414,
     "dailyMinutesDown": {
       "2024-04-15": 26,
       "2024-01-30": 11
@@ -171,11 +169,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 1194,
-    "timeDay": 858,
-    "timeWeek": 970,
-    "timeMonth": 1031,
-    "timeYear": 1031,
+    "time": 1195,
+    "timeDay": 832,
+    "timeWeek": 975,
+    "timeMonth": 1012,
+    "timeYear": 1030,
     "dailyMinutesDown": {
       "2024-04-15": 26,
       "2024-01-30": 9,
@@ -193,15 +191,15 @@
     "slug": "beacon-explorer",
     "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "97.99%",
     "time": 4088,
-    "timeDay": 505,
-    "timeWeek": 598,
-    "timeMonth": 1253,
-    "timeYear": 4588,
+    "timeDay": 589,
+    "timeWeek": 603,
+    "timeMonth": 1246,
+    "timeYear": 4587,
     "dailyMinutesDown": {
       "2024-10-07": 6,
       "2024-10-03": 10,
@@ -254,10 +252,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 497,
-    "timeDay": 311,
-    "timeWeek": 394,
-    "timeMonth": 406,
-    "timeYear": 567,
+    "timeDay": 353,
+    "timeWeek": 390,
+    "timeMonth": 400,
+    "timeYear": 566,
     "dailyMinutesDown": {
       "2024-09-01": 46,
       "2024-08-31": 4,
@@ -290,7 +288,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/eth2-forkmon.chiadochain.net.ico",
     "slug": "forkmon-eth-2",
     "status": "down",
-    "uptime": "45.59%",
+    "uptime": "45.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -301,7 +299,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-08": 655,
+      "2024-10-09": 62,
+      "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
@@ -664,8 +663,7 @@
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
-      "2023-10-11": 1440,
-      "2023-10-10": 1440
+      "2023-10-11": 1440
     }
   },
   {
@@ -679,11 +677,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 446,
-    "timeDay": 434,
-    "timeWeek": 521,
-    "timeMonth": 504,
-    "timeYear": 515,
+    "time": 447,
+    "timeDay": 432,
+    "timeWeek": 513,
+    "timeMonth": 495,
+    "timeYear": 514,
     "dailyMinutesDown": {
       "2024-07-28": 4,
       "2023-11-24": 3,
