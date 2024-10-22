@@ -11,8 +11,8 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.59%",
     "time": 543,
-    "timeDay": 431,
-    "timeWeek": 447,
+    "timeDay": 406,
+    "timeWeek": 425,
     "timeMonth": 456,
     "timeYear": 549,
     "dailyMinutesDown": {
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 638,
-    "timeDay": 338,
-    "timeWeek": 454,
-    "timeMonth": 432,
-    "timeYear": 635,
+    "timeDay": 316,
+    "timeWeek": 424,
+    "timeMonth": 433,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2024-07-10": 6,
       "2024-02-20": 6,
@@ -86,12 +86,12 @@
     "uptime": "98.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.79%",
+    "uptimeMonth": "83.08%",
     "uptimeYear": "97.93%",
     "time": 650,
-    "timeDay": 2647,
-    "timeWeek": 1173,
-    "timeMonth": 909,
+    "timeDay": 342,
+    "timeWeek": 1093,
+    "timeMonth": 892,
     "timeYear": 643,
     "dailyMinutesDown": {
       "2024-10-08": 6,
@@ -118,8 +118,7 @@
       "2024-02-20": 62,
       "2024-02-02": 76,
       "2023-12-29": 6,
-      "2023-10-31": 6,
-      "2023-10-23": 24
+      "2023-10-31": 6
     }
   },
   {
@@ -133,11 +132,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1442,
-    "timeDay": 1118,
-    "timeWeek": 1295,
-    "timeMonth": 1306,
-    "timeYear": 1413,
+    "time": 1403,
+    "timeDay": 1092,
+    "timeWeek": 1235,
+    "timeMonth": 1286,
+    "timeYear": 1411,
     "dailyMinutesDown": {
       "2024-04-15": 26,
       "2024-01-30": 11
@@ -154,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1103,
-    "timeDay": 967,
-    "timeWeek": 1034,
-    "timeMonth": 1032,
-    "timeYear": 1008,
+    "time": 1104,
+    "timeDay": 882,
+    "timeWeek": 1014,
+    "timeMonth": 1011,
+    "timeYear": 1007,
     "dailyMinutesDown": {
       "2024-04-15": 26,
       "2024-01-30": 9
@@ -173,13 +172,13 @@
     "uptime": "98.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.48%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "97.99%",
     "time": 4301,
-    "timeDay": 534,
-    "timeWeek": 566,
-    "timeMonth": 1214,
-    "timeYear": 4700,
+    "timeDay": 514,
+    "timeWeek": 532,
+    "timeMonth": 1173,
+    "timeYear": 4699,
     "dailyMinutesDown": {
       "2024-10-19": 7,
       "2024-10-07": 6,
@@ -233,9 +232,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 501,
-    "timeDay": 334,
-    "timeWeek": 381,
-    "timeMonth": 396,
+    "timeDay": 315,
+    "timeWeek": 350,
+    "timeMonth": 394,
     "timeYear": 577,
     "dailyMinutesDown": {
       "2024-09-01": 46,
@@ -253,8 +252,7 @@
       "2024-03-03": 12,
       "2024-01-29": 6,
       "2023-11-25": 29,
-      "2023-11-24": 15,
-      "2023-10-23": 18
+      "2023-11-24": 15
     }
   },
   {
@@ -263,18 +261,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/eth2-forkmon.chiadochain.net.ico",
     "slug": "forkmon-eth-2",
     "status": "down",
-    "uptime": "44.78%",
+    "uptime": "44.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 200,
+    "time": 201,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-21": 64,
+      "2024-10-22": 63,
+      "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
       "2024-10-18": 1440,
@@ -637,8 +636,7 @@
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
-      "2023-10-24": 1440,
-      "2023-10-23": 1440
+      "2023-10-24": 1440
     }
   },
   {
@@ -653,14 +651,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 485,
-    "timeDay": 424,
-    "timeWeek": 487,
+    "timeDay": 402,
+    "timeWeek": 450,
     "timeMonth": 508,
-    "timeYear": 501,
+    "timeYear": 500,
     "dailyMinutesDown": {
       "2024-07-28": 4,
-      "2023-11-24": 3,
-      "2023-10-23": 6
+      "2023-11-24": 3
     }
   }
 ]
