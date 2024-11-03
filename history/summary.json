@@ -176,7 +176,7 @@
     "timeDay": 586,
     "timeWeek": 554,
     "timeMonth": 603,
-    "timeYear": 4733,
+    "timeYear": 4743,
     "dailyMinutesDown": {
       "2024-10-19": 7,
       "2024-10-07": 6,
@@ -259,7 +259,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/eth2-forkmon.chiadochain.net.ico",
     "slug": "forkmon-eth-2",
     "status": "down",
-    "uptime": "43.97%",
+    "uptime": "43.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -270,7 +270,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-03": 67,
+      "2024-11-03": 291,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
@@ -642,9 +642,9 @@
     "url": "https://ethstats.chiadochain.net/",
     "icon": "https://icons.duckduckgo.com/ip3/ethstats.chiadochain.net.ico",
     "slug": "ethstats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -654,6 +654,7 @@
     "timeMonth": 498,
     "timeYear": 500,
     "dailyMinutesDown": {
+      "2024-11-03": 0,
       "2024-07-28": 4,
       "2023-11-24": 3
     }
