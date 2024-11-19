@@ -169,17 +169,17 @@
     "url": "https://beacon.chiadochain.net/",
     "icon": "https://icons.duckduckgo.com/ip3/beacon.chiadochain.net.ico",
     "slug": "beacon-explorer",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "98.63%",
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "98.60%",
     "uptimeWeek": "99.20%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "98.14%",
+    "uptimeYear": "98.18%",
     "time": 4292,
-    "timeDay": 545,
-    "timeWeek": 579,
-    "timeMonth": 651,
-    "timeYear": 4794,
+    "timeDay": 541,
+    "timeWeek": 576,
+    "timeMonth": 648,
+    "timeYear": 4789,
     "dailyMinutesDown": {
       "2024-11-19": 20,
       "2024-11-17": 20,
@@ -225,7 +225,7 @@
       "2024-07-03": 536,
       "2024-07-02": 340,
       "2024-07-01": 684,
-      "2024-06-30": 573
+      "2024-06-30": 386
     }
   },
   {
@@ -271,7 +271,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/eth2-forkmon.chiadochain.net.ico",
     "slug": "forkmon-eth-2",
     "status": "down",
-    "uptime": "42.97%",
+    "uptime": "42.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -282,7 +282,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-19": 954,
+      "2024-11-19": 1230,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
